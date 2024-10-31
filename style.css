@@ -1,0 +1,15 @@
+body{
+    blakgroud: green;
+    color:aquamarine;
+}
+section{
+    background-color: black;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    display: flex;
+    justify-content: center;
+}
+header{
+    margin: 5%;
+    font-size: 40px;
+    color: brown;
